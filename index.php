@@ -1,11 +1,11 @@
-<?
+п»ї<?
 
-echo "test GIT"."<br>";
+// echo "test GIT"."<br>";
 
-echo "Это сайт test03.com"."<br>";
+echo "Р­С‚Рѕ СЃР°Р№С‚ test03.com"."<br>";
 
 phpinfo();
 
-phpinfo(INFO_MODULES);
+// phpinfo(INFO_MODULES);
 
 ?>
